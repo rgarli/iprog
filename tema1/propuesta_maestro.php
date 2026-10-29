@@ -1,0 +1,1 @@
+// Se dice que un año es viciesto si es múltiplo de 4. Deja de ser viciesto si es múltiplo de 100. Y vuelve a ser viciesto si es múltiplo de 400.
